@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-hectorm",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "ESLint shareable config",
   "author": "Héctor Molinero Fernández <hector@molinero.dev>",
   "license": "MIT",
@@ -13,7 +13,9 @@
     "url": "https://github.com/hectorm/eslint-config-hectorm/issues"
   },
   "main": "index.js",
-  "files": ["index.js"],
+  "files": [
+    "index.js"
+  ],
   "devDependencies": {
     "eslint": "5.x.x",
     "eslint-config-airbnb-base": "13.x.x",
