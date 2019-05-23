@@ -1,5 +1,6 @@
 module.exports = {
-	extends: ['airbnb-base'],
+	extends: ['eslint:recommended', 'airbnb-base'],
+	plugins: ['import'],
 	rules: {
 		'array-bracket-spacing': ['error', 'never'],
 		'arrow-body-style': ['off'],
