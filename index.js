@@ -10,6 +10,7 @@ module.exports = {
 		'comma-dangle': ['error', 'never'],
 		'import/prefer-default-export': ['off'],
 		'indent': ['error', 'tab'],
+		'max-classes-per-file': ['error', 2],
 		'max-len': ['off'],
 		'no-bitwise': ['off'],
 		'no-console': ['warn', { allow: ['error', 'warn'] }],
