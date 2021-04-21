@@ -23,6 +23,7 @@ module.exports = {
 		'new-cap': ['off'],
 		'no-bitwise': ['off'],
 		'no-console': ['warn', { allow: ['error', 'warn'] }],
+		'no-else-return': ['off'],
 		'no-invalid-this': ['off'],
 		'no-plusplus': ['off'],
 		'no-restricted-syntax': ['off'],
